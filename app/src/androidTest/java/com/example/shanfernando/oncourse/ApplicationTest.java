@@ -1,4 +1,4 @@
-package zoohigh.oncourse;
+package com.example.shanfernando.oncourse;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
